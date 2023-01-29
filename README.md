@@ -1,5 +1,5 @@
 ### Hi! I'm Coconut
-- OpenTTD NewGRF
+- OpenTTD NewGRF Developer
 
 
 <!--
