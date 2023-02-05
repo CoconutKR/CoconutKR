@@ -3,7 +3,7 @@
 
 <div align=center>
  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)![Twitch Status](https://img.shields.io/twitch/status/telk5093?style=flat-square&label=)](https://www.twitch.tv/coconutcoconutkr)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)![Twitch Status](https://img.shields.io/twitch/status/coconutcoconutkr?style=flat-square&label=)](https://www.twitch.tv/coconutcoconutkr)
  [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/@coconutcoconutkr)
  
  
