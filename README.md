@@ -5,5 +5,6 @@
 
 [![TELKLAND](https://img.shields.io/badge/Patreon-%ED%9B%84%EC%9B%90%ED%95%98%EA%B8%B0-critical?style=flat-square&logo=patreon)](https://www.patreon.com/CoconutKR)
   
+ https://youtube.com/@coconutcoconutkr
 </div>
 
